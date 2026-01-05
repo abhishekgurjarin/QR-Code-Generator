@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/QR-Code-Generator.git
+    git clone https://github.com/abhishekgurjarin/QR-Code-Generator.git
     ```
 
 2. **Open the project directory**:
@@ -46,7 +46,7 @@ To get started with the project, follow these steps:
 
 
 ## Live Demo
-You can check out the live demo of the QR Code Generator [here](https://abhishekboadgurjar.github.io/QR-Code-Generator/).
+You can check out the live demo of the QR Code Generator [here](https://abhishekgurjarin.github.io/QR-Code-Generator/).
 
 ## Screenshots
 ![Screenshot 2024-08-23 000507](https://github.com/user-attachments/assets/1633f60e-bbd1-44d4-bc96-9a810a7196f9)
@@ -62,4 +62,4 @@ This project was developed as part of my journey to enhance my web development s
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
+  - [GitHub Profile](https://github.com/abhishekgurjarin)
